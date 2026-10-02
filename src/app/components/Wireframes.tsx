@@ -1,0 +1,1 @@
+// Este archivo ha sido eliminado ya que los wireframes ya no son necesarios
